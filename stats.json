@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-20T09:45:46.845435",
+  "timestamp": "2026-05-20T15:37:43.015637",
   "github_mirror_clean": {
     "hysteria2": 2,
-    "ss": 1,
-    "vless": 14,
-    "vmess": 12
+    "ss": 3,
+    "vless": 13,
+    "vmess": 11
   },
   "ru_sni_filtered": {
     "hysteria2": 1,
